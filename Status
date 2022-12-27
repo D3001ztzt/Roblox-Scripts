@@ -1,0 +1,5 @@
+Check_1 = true
+Status = online
+Ki = offline
+Load_s = true
+print("loaded")
